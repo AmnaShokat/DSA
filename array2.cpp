@@ -23,7 +23,7 @@ int main()
     arr[pos - 1] = element;
     size++;
 
-    cout << "elements in array are: ";
+    cout << "elements in  are: ";
     for (int i = 0; i < size; i++)
     {
         cout << arr[i] << "\n";
